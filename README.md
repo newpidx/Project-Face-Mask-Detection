@@ -1,2 +1,2 @@
 # Project-Face-Mask-Detection
-Project-Face-Mask-Detection Python Data Science [source code and slide]
+Project-Face-Mask-Detection Python Data Science [source code and slide 2CS2]
